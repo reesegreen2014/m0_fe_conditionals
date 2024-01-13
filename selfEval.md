@@ -1,6 +1,6 @@
 # Self Evaluation
 
-1. How confident do you feel in your understanding and fluency with the comparison operators?
+1. How confident do you feel in your understanding and fluency with the comparison operators? 
 1. How confident do you feel in your understanding and fluency with the logical operators?
 1. How confident do you feel in your understanding and fluency with the if statements?
 1. How much time did you spend on this lesson/topic? How did that line up with your time estimate?
